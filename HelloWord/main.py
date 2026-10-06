@@ -1,0 +1,5 @@
+print("Hello World")
+print("My name is Keith")
+print('0----0')
+print(' ||| ')
+print('*' * 10)
